@@ -1,18 +1,30 @@
 
-# overall contribution
+#Get Started
+
+## overall contribution
 
 all team-members contributed equally
 
-# huggingface presentation
+## huggingface presentation
+
+see [huggingface translation finetuning script](./huggingface_presentation)
 
 https://colab.research.google.com/drive/1OFNsQiwWwflUYMlBV5QqfYrWbit6YuS1?usp=sharing
 
-# poem generation
+## poem generation
 
-# daag hackathon
+see [poem generation](./poem)
 
-# kaggle tunix challenge
+## daag hackathon
+
+see [daag hackathon](./course_participation)
+
+## kaggle tunix challenge
+
+see [tunix notebook](./kaggle_tunix_challange)
 
 https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/new-writeup-1765547441909
 
-# capstone
+## capstone
+
+see [nlp capstone project](./nlp_capstone)

@@ -60,42 +60,6 @@ GENIUS_CLIENT_ACCESS_TOKEN=
 emptiness --> loneliness
 
 ## xlm-roberta-base
-Epoch 01 | Train Loss: 2.0146 | Train Acc: 0.1081
-Epoch 02 | Train Loss: 1.9770 | Train Acc: 0.1284
-Epoch 03 | Train Loss: 1.9788 | Train Acc: 0.1351
-Epoch 04 | Train Loss: 1.9650 | Train Acc: 0.1723
-Epoch 05 | Train Loss: 1.9207 | Train Acc: 0.1959
-Epoch 06 | Train Loss: 1.9630 | Train Acc: 0.1892
-Epoch 07 | Train Loss: 1.8664 | Train Acc: 0.2568
-Epoch 08 | Train Loss: 1.7333 | Train Acc: 0.3378
-Epoch 09 | Train Loss: 1.5259 | Train Acc: 0.4291
-Epoch 10 | Train Loss: 1.2742 | Train Acc: 0.5101
-Epoch 11 | Train Loss: 0.9420 | Train Acc: 0.6588
-Epoch 12 | Train Loss: 0.6552 | Train Acc: 0.7905
-Epoch 13 | Train Loss: 0.3481 | Train Acc: 0.9122
-Epoch 14 | Train Loss: 0.2704 | Train Acc: 0.9291
-Epoch 15 | Train Loss: 0.1500 | Train Acc: 0.9696
-Validation Loss: 2.3779
-Validation Accuracy: 0.4459
-
-Epoch 01 | Train Loss: 2.0146 | Train Acc: 0.1081
-Epoch 02 | Train Loss: 1.9770 | Train Acc: 0.1284
-Epoch 03 | Train Loss: 1.9788 | Train Acc: 0.1351
-Epoch 04 | Train Loss: 1.9650 | Train Acc: 0.1723
-Epoch 05 | Train Loss: 1.9307 | Train Acc: 0.1892
-Epoch 06 | Train Loss: 1.9550 | Train Acc: 0.1723
-Epoch 07 | Train Loss: 1.9448 | Train Acc: 0.2230
-Epoch 08 | Train Loss: 1.7879 | Train Acc: 0.2905
-Epoch 09 | Train Loss: 1.6919 | Train Acc: 0.3277
-Epoch 10 | Train Loss: 1.5670 | Train Acc: 0.4358
-Epoch 11 | Train Loss: 1.2835 | Train Acc: 0.5372
-Epoch 12 | Train Loss: 0.9856 | Train Acc: 0.6791
-Epoch 13 | Train Loss: 0.5956 | Train Acc: 0.8378
-Epoch 14 | Train Loss: 0.3668 | Train Acc: 0.9020
-Epoch 15 | Train Loss: 0.2022 | Train Acc: 0.9527
-Model saved to models\xlm-roberta-base
-Validation Loss: 2.5165
-Validation Accuracy: 0.4054
 
 Epoch 01 | Train Loss: 2.0126 | Train Acc: 0.1042 | Val Loss: 1.9676 | Val Acc: 0.1111
 Epoch 02 | Train Loss: 2.0027 | Train Acc: 0.1181 | Val Loss: 1.9114 | Val Acc: 0.2222

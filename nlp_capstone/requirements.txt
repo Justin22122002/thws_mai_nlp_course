@@ -1,0 +1,13 @@
+kagglehub
+flask
+pydantic
+numpy
+pandas
+matplotlib
+scikit-learn
+transformers
+torch
+lyricsgenius
+spotipy==2.25.2
+python-dotenv==1.2.1
+sentencepiece

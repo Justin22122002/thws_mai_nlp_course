@@ -62,20 +62,36 @@ emptiness --> loneliness
 ## xlm-roberta-base
 
 Epoch 01 | Train Loss: 2.0126 | Train Acc: 0.1042 | Val Loss: 1.9676 | Val Acc: 0.1111
+
 Epoch 02 | Train Loss: 2.0027 | Train Acc: 0.1181 | Val Loss: 1.9114 | Val Acc: 0.2222
+
 Epoch 03 | Train Loss: 1.9539 | Train Acc: 0.1493 | Val Loss: 1.9019 | Val Acc: 0.2520
+
 Epoch 04 | Train Loss: 1.8112 | Train Acc: 0.2778 | Val Loss: 1.7160 | Val Acc: 0.3790
+
 Epoch 05 | Train Loss: 1.5796 | Train Acc: 0.4201 | Val Loss: 1.5460 | Val Acc: 0.4365
+
 Epoch 06 | Train Loss: 1.2987 | Train Acc: 0.5243 | Val Loss: 1.6232 | Val Acc: 0.4623
+
 Epoch 07 | Train Loss: 1.0434 | Train Acc: 0.6111 | Val Loss: 1.7615 | Val Acc: 0.4385
+
 Epoch 08 | Train Loss: 0.6774 | Train Acc: 0.7708 | Val Loss: 1.8008 | Val Acc: 0.3929
+
 Epoch 09 | Train Loss: 0.4520 | Train Acc: 0.9028 | Val Loss: 1.7796 | Val Acc: 0.4067
+
 Epoch 10 | Train Loss: 0.2796 | Train Acc: 0.9444 | Val Loss: 1.8679 | Val Acc: 0.4643
+
 Epoch 11 | Train Loss: 0.1858 | Train Acc: 0.9618 | Val Loss: 2.2269 | Val Acc: 0.3929
+
 Epoch 12 | Train Loss: 0.1135 | Train Acc: 0.9826 | Val Loss: 2.1688 | Val Acc: 0.4226
+
 Epoch 13 | Train Loss: 0.0495 | Train Acc: 1.0000 | Val Loss: 2.3412 | Val Acc: 0.4206
+
 Epoch 14 | Train Loss: 0.0385 | Train Acc: 0.9965 | Val Loss: 2.3884 | Val Acc: 0.4206
+
 Epoch 15 | Train Loss: 0.0304 | Train Acc: 1.0000 | Val Loss: 2.4911 | Val Acc: 0.4623
-Model saved to models\xlm-roberta-base
+
 Validation Loss: 2.4196
+
 Validation Accuracy: 0.4648
+

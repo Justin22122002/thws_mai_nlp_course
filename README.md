@@ -1,7 +1,12 @@
 
-#Get Started
+# Get Started
 
-## overall contribution
+## Overall Contribution & Team Members
+The team members are:
+- Sandro Paval (5120044)
+- Justin Groh (5121050)
+- Paul Falkenstein (5121078)
+- Peter Preinesberger (5121028)
 
 all team-members contributed equally
 
